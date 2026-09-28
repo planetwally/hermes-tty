@@ -1,0 +1,14 @@
+.gradle/
+.kotlin/
+build/
+local.properties
+*.iml
+.idea/
+.pair-venv/
+__pycache__/
+*.apk
+
+# Release signing — never commit these.
+keystore.properties
+*.jks
+*.keystore
